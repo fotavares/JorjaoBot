@@ -4,7 +4,7 @@ include '../include/Telegram.php';
 include 'falas.php';
 include '../conexao_bd.php';
 
-$bot_token = '413543168:AAH-Xt-BdQYA669Y2v5Vj0BUvli0wFrrxx0';
+$bot_token = 'TOKEN';
 
 $base = new Database();
 
